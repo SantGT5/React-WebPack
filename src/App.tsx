@@ -14,5 +14,5 @@ export const App = () => {
       <img src={LOGO} alt="React Logo" width="300"></img>
       <ClickCounter />
     </>
-  )
+  ) 
 }
